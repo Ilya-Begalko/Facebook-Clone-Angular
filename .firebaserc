@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "facebook-clone-eea31": {
+      "hosting": {
+        "Facebook-Clone-Angular": [
+          "facebook-clone-eea31"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "facebook-clone-eea31"
+  }
+}
